@@ -1,0 +1,29 @@
+COL11 V2 FACT SHEET RELEASE
+
+Created UTC: 2026-10-13T12:35:48.959174+00:00
+Status: PASS
+
+spatial_pairs: 234
+territorial_rows: 257127
+event_area_rows: 257127
+annual_stock_rows: 280
+size_class_rows: 6068
+standardized_lineage_biomes: 6
+standardized_lineage_tasks: 12
+standardized_lineage_annual_rows: 240
+standardized_lineage_top10_roots: 120
+standardized_lineage_top10_annual_rows: 4800
+standardized_lineage_cached_maps: 120
+standardized_lineage_national_maps: 20
+lineage_root_id: 949101
+lineage_maps: 2
+lineage_direct_children_accumulated: 1211840
+lineage_largest_confirmed_split_children: 55571
+lineage_largest_confirmed_merge_parents: 48
+lineage_largest_right_censored_split_children: 46776
+lineage_largest_right_censored_merge_parents: 8406
+event_area_export_rows: 249328
+linked_lazy_images: 1942
+maps: 1800
+
+Embedded maps: 0
